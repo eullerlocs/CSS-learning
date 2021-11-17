@@ -1,8 +1,21 @@
 body {
-    color:chocolate;
+    background-color: teal;
+    color:rgb(233, 179, 141);
+    text-align: center;
 }
 li{color:wheat;}
 
 ul {
     border:1px solid rebeccapurple;
 } 
+#gostei{
+    background-color: green;
+    color:red;
+}
+#naoGostei{
+    background-color: red;
+    color: green;  
+}
+.botoes{
+    border:1px solid black;
+}
